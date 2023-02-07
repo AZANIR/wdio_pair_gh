@@ -1,1 +1,0 @@
-start "" "%ProgramFiles%\Git\git-bash.exe" -c "./run_script_docker.sh && /usr/bin/bash --login -i"
